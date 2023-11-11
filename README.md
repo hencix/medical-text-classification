@@ -2,7 +2,7 @@
 
 ### Description
 
-This repository contains the code developed for my thesis titled "Comparative Analysis of Feature Representation methods and Machine Learning models for medical text classification". The project explores classifying medical abstracts into disease categories using various feature representation and classifier methods.
+This repository contains the code for my thesis titled "Comparative Analysis of Feature Representation methods and Machine Learning models for medical text classification". The project explored classifying medical abstracts into disease categories using various feature representation and classifier methods.
 
 ### References
 
